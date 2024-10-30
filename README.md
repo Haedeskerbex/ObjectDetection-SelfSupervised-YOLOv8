@@ -10,7 +10,7 @@ This project focuses on detecting a single object class using the YOLOv8 model. 
 
 ## ✨ Key Features
 
-- **Real-Time Object Detection**: Uses YOLOv8 to detect water bottles in real-time, utilizing your local webcam.
+- **Real-Time Object Detection**: Uses YOLOv8 to detect objects in real-time, utilizing your local webcam.
 - **Self-Supervised Learning Loop**: Continuously improves model performance by dynamically retraining on new detections.
 - **Cloud-Based Training**: Model training is performed in Google Colab to address hardware constraints, allowing scalable training and faster processing.
 - **Google Cloud API Integration**: Synchronizes model updates between Google Drive and local detection code, ensuring the latest model is always in use.
